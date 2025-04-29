@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ScreenScrapeReplit": {
+      "commandName": "Project",
+      "commandLineArgs": "-file c:\\temp\\replit-recipe-transcript-raw.txt -out c:\\temp\\replit-analysisAgent.csv"
+    }
+  }
+}
